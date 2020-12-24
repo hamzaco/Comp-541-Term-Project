@@ -1,0 +1,7 @@
+models.jld2: after pass occurs update the true cost of the all bids and aim for the highest optimal bid.
+
+models_1.jld2: aim for the highest optimal bid.
+
+models_2.jld2: aim for the lowest optimal bid.
+
+models_3.jld2: aim for the lowest optimal bid and no overwrite on the cost of illegal bids as 1.2. (practically -inf)
